@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(147, 102, 189);
+}
 h1{
     text-align: center;
     color: blueviolet;
@@ -19,4 +22,7 @@ h2{
     background-clip: text;
     text-align: center;
     font-size: 30px;
+}
+p{
+    text-align: center;
 }
